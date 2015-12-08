@@ -23,7 +23,6 @@ The `Intro.md` file introduces this workshop and the following concepts:
 * Computing clusters and why they're useful
 * Why we need to run code in parallel
 * Parallelising code with MPI on clusters
-* Master and slave machines
 * Using MPI in your Python and R code
 * Raspberry Pi Cluster
 * How we can use MPI through Python and R
@@ -45,10 +44,10 @@ R materials are located within the R directory and follow the following format:
 This workshop will require the following software:
 * Python programming language
 * [R programming language](https://www.r-project.org/)
-* MPI setup on at least one computer - see cluster_setup notes (under development)
 * MPI4Py (Python package)
 * RMPI (R Package)
-* rsync: to sync files on the cluster
+
+You'll also need a computer cluster set up with MPI installed on them.
 
 ## Example Dataset
 

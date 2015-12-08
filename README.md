@@ -28,6 +28,10 @@ The `Intro.md` file introduces this workshop and the following concepts:
 * Raspberry Pi Cluster
 * How we can use MPI through Python and R
 
+#### Sync
+
+The sync directory contains instructions and scripts to sync data and code between computers in the cluster.
+
 #### Python
 
 Python materials are located within the Python directory and follow the following format:

@@ -27,6 +27,7 @@ The `Intro.md` file introduces this workshop and the following concepts:
 * Using MPI in your Python and R code
 * Raspberry Pi Cluster
 * How we can use MPI through Python and R
+* Using this on your own multicore computers
 
 #### Sync
 
@@ -51,7 +52,7 @@ This workshop will require the following software:
 * [R programming language](https://www.r-project.org/)
 * MPI setup on at least one computer - see cluster_setup notes (under development)
 * MPI4Py (Python package)
-* RMPI (R Package)
+* Rmpi (R Package)
 * rsync: to sync files on the cluster
 
 ## Example Dataset
